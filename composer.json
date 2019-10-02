@@ -1,0 +1,12 @@
+{
+    "name": "emdojo/calculator",
+    "description": "This demo package will do some calculations",
+    "authors": [
+        {
+            "name": "emon1433",
+            "email": "sazid1433@cseku.ac.bd"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
